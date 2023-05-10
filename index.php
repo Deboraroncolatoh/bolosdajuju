@@ -12,6 +12,12 @@
   <p> estas musicas representam sentimentos humanos e experiências sociais.
       Principalmente a musica mais aclamada do álbum que segundo os fãs é a chamada Runaway, mas eu discordo pois prefiro Winter Bird </p>
   
+<?php>
+  date_default_timezone_set('America/Sao_Paulo');
+  echo date('h:u:s A');
+  
+?>
+  
   <a href ="#" class="button">Segundo álbum</a>
  
   
